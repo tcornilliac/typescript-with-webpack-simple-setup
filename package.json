@@ -1,0 +1,23 @@
+{
+  "name": "typescript-with-webpack-simple-setup",
+  "version": "1.0.0-alpha.0",
+  "description": "A simple example of how to configure Webpack for TypeScript development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcornilliac/typescript-with-webpack-simple-setup.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript"
+  ],
+  "author": "Tom Cornilliac <tomcornilliac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcornilliac/typescript-with-webpack-simple-setup/issues"
+  },
+  "homepage": "https://github.com/tcornilliac/typescript-with-webpack-simple-setup#readme"
+}
